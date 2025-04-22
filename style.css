@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-size: 14px;
+  font-family: "Lexend";
+  background-color: Blue;
+  border: 5px solid #ffffff;
+  color: white; 
+}
+
+h2, h3 {
+  color: #ffffff; 
+}
+
+p {
+  color: #e6e6e6;
+}
